@@ -27,6 +27,9 @@ Nervous System and Muscular disorders Headaches, migraines, certain facial paral
 <h3>Does it hurt?</h3>
 <p>If your practitioner has obtained the correct stimulus of the needle, the patient should feel some cramping, heaviness, distention, tingling, or electric sensation either around the needle or traveling up or down the affected meridian, or energy pathway. In any case, if you experience any discomfort, it is usually mild.</p>
 
+<h3>Does acupuncture leave scars?</h3>
+<p>No. Very fine needles are used for acupuncture. If done correctly, the needles do not leave scars.</p> 
+
 <h3>How does acupuncture work?</h3>
 <p>Modern Western medicine cannot explain how acupuncture works. Traditional acupuncture is based on ancient Chinese theories of the flow of Qi and Xue ( Energy and Blood) through distinct meridians or pathways that cover the body somewhat like the nerves and blood vessels do. According to ancient theory, acupuncture allows Qi to flow to areas where it is deficient and away form where it is excess. In this way, acupuncture regulates and restores the harmonious energetic balance of the body. In Chinese there is a saying, "There is no pain if there is free flow; if there is pain, there is no free flow."</p>
 

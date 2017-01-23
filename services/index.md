@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Services
-description: "Services offered at Olympic Acupuncture"
+description: "Services and treatments offered at Olympic Acupuncture"
 ---
 <p>Our staff at Olympic Acupuncture is committed to offering our communities the best treatment and utmost care, by utilizing natural, holistic, and integrated Chinese medicine.</p>
-<h2>Acupuncture</h2>
+<h2>Acupuncture Treatments</h2>
 <p>Acupuncture and integrative medical approaches can treat a wide range of conditions, including, but not limited to:</p>
 <ul class="list-in-content">
 <li>Addiction</li>
@@ -34,3 +34,4 @@ description: "Services offered at Olympic Acupuncture"
 <li>minimize puffiness</li>
 </ul>
 <p>without surgery, needles, redness, flaking, downtime or discomfort.</p>
+<p>We also provide facial rejuventation treatments using traditional acupuncture techniques that are painless and scar-free. You may see below an example of Dr. Susanna Shen applying facial rejuvenation to herself using traditional acupuncture techniques.<br><img src="{{ site.root_url }}images/facial_rejuvenation_acupuncture.jpg" class="img-thumbnail img-responsive" alt="Facial rejuvenation using acupuncture techniques by Dr. Susanna Shen at Olympic Acupuncture" width="500"></p>

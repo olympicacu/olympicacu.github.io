@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: "About Olympic Acupuncture"
+description: "About Dr. Susanna Shen and the clinics of Olympic Acupuncture"
 ---
 <h2>Susanna (Xiaofen) Shen</h2>
 <p><b>Doctor of Oriental Medicine (OMD), Licensed Acupuncturist (L.Ac.), Professor</b></p>
@@ -16,3 +16,5 @@ description: "About Olympic Acupuncture"
 <li>Facial Rejuvenation</li>
 </ul>
 </p>
+<h2>Our Clinics</h2>
+<p>For our patients' comfort and convenience, our facilities feature restrooms and heated treatment tables. We carry medicinal herbs, pills, powders and super fruit juices.</p>

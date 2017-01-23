@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Testimonials
-description: "Testimonials for Dr. Susanna Shen at Olympic Acupuncture"
+description: "Testimonials for Dr. Susanna Shen at Olympic Acupuncture clinics in Los Altos and San Jose California"
 ---
-<p>You may find additional reviews about us on <a href="https://www.yelp.com/biz/los-altos-acupuncture-center-los-altos" target="_blank">Yelp</a>.</p>
+<p>You may find what other patients are saying about us on <a href="https://www.yelp.com/biz/los-altos-acupuncture-center-los-altos" target="_blank">Yelp</a>.</p>
 <h3>Testimonial #1</h3>
 <p>For a number of years I have had a painful spot in my back along with a bit of a stomach problem. Nothing that I ever tried to ease the pain or heal helped in any way. I started seeing Dr. Shen about two years ago. Her treatments with Acupuncture, Herbal Medicine and Acupressure have eliminated the discomfort almost entirely. I see Dr. Shen frequently and I am very happy with her Health Care Methods. I strongly suggest that you try alternative medicine. IT REALLY WORKS.<br>
 -Ekindig Phone: 408-378-1128
