@@ -188,3 +188,11 @@ a.social:focus {
   color: #41914d;
   font-weight: bold;
 }
+.table.table-borderless td, .table.table-borderless th {
+    border: 0 !important;
+    padding: 0;
+}
+
+.table.table-borderless {
+    margin-bottom: 0px;
+}
