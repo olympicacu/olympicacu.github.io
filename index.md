@@ -32,7 +32,7 @@ description: "Olympic Acupuncture is a network of acupuncture and traditional Ch
   	<p>5570 Sanchez Dr Ste 100<br>San Jose, CA 95123</p><br>
   	<p><b><u>San Jose Hours:</u></b></p>
   	<table class="table table-borderless">
-  		<tr><td width="25%">Monday</td><td width="75%">Closed</td></tr>
+  		<tr><td width="30%">Monday</td><td width="70%">Closed</td></tr>
   		<tr><td>Tuesday</td><td>4PM - 7PM</td></tr>
   		<tr><td>Wednesday</td><td>Closed</td></tr>
   		<tr><td>Thursday</td><td>9AM - 6PM</td></tr>
