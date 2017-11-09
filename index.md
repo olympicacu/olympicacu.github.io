@@ -27,7 +27,7 @@ description: "Olympic Acupuncture is a network of acupuncture and traditional Ch
   	<b><u>Los Altos Contact:</u></b><br>(650) 948-8483<br>losaltosacu@yahoo.com<br><a href="http://www.losaltosacu.com/" target="_blank">www.losaltosacu.com</a>
     </p>
   </div>
-  <div class="col-sm-6">
+  <!-- <div class="col-sm-6">
   	<h3>San Jose Location</h3>
   	<p>5570 Sanchez Dr Ste 100<br>San Jose, CA 95123</p><br>
   	<p><b><u>San Jose Hours:</u></b></p>
@@ -44,5 +44,5 @@ description: "Olympic Acupuncture is a network of acupuncture and traditional Ch
   	<p>
   	<b><u>San Jose Contact:</u></b><br>(408) 221-6458<br>losaltosacu@yahoo.com
     </p>
-  </div>
+  </div> -->
 </div>
